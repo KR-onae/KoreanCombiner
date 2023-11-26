@@ -1,8 +1,8 @@
-import com.kronae.korean.combiner.KoreanChar;
-import com.kronae.korean.combiner.KoreanCombiner;
-import com.kronae.korean.combiner.part.consonant.KoreanFinalSound;
-import com.kronae.korean.combiner.part.consonant.KoreanInitialSound;
-import com.kronae.korean.combiner.part.vowel.KoreanMidSound;
+import io.github.kronae.korean.combiner.KoreanChar;
+import io.github.kronae.korean.combiner.KoreanCombiner;
+import io.github.kronae.korean.combiner.part.consonant.KoreanFinalSound;
+import io.github.kronae.korean.combiner.part.consonant.KoreanInitialSound;
+import io.github.kronae.korean.combiner.part.vowel.KoreanMidSound;
 
 public class TestKorean {
     public static void main(String[] args) {
